@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4394A743
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega16.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr2\inc\alcd.h"
+NODE:I LEVEL:0 LINE:29 "C:\cvavr2\inc\stdlib.h"
+NODE:V LEVEL:0 LINE:33 "ganti -> RAM:????"
+NODE:F LEVEL:0 LINE:34 "main(void)"
