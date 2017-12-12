@@ -1,0 +1,19 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+tam                                                               0x0260      33
+data                                                              0x0281       4
+_base_y                                                           0x0285       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+jarak                                                             R4,R5        2
+us1                                                               R7           1
+_lcd_x                                                            R6           1
+_lcd_y                                                            R9           1
+_lcd_maxx                                                         R8           1
